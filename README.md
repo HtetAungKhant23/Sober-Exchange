@@ -1,0 +1,2 @@
+# sixthAssignment
+For NCC exam
