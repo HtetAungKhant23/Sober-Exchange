@@ -1,2 +1,2 @@
-# sixthAssignment
-For NCC exam
+# Sober Exchange
+coding pratice with cpp  
